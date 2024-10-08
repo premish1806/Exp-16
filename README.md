@@ -40,6 +40,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/eaf9fb0a-36d5-463d-bf78-a8c5dd89b648)
 
 
 ## Program 2: Prompt the user to enter a year greater than 2000. If user enters year greater than 2000, then display that year. If user enters year less than 2000 throw an exception.
@@ -73,6 +74,8 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/3083295b-1478-4a62-a131-d9c5f0857011)
+
 
 ## Conclusion:
 we learned how to handle errors in C++ using exception handling to deal with incorrect inputs and make the program more user-friendly.
